@@ -28,7 +28,7 @@
     <scm>
         <url>git://github.com/mstahv/tb-drone.git</url>
         <connection>scm:git:git://github.com/mstahv/tb-drone.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/mstahv/${ComponentClassName}.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:/mstahv/tb-drone.git</developerConnection>
     </scm>
 
     <issueManagement>
